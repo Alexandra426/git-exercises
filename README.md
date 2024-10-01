@@ -1,3 +1,6 @@
 "# Git Exercises\n\nAutor: Alexandra" 
 "\n## Ficheiros Adicionados:\n- .gitignore: Ignora ficheiros tempor rios e logs" 
 "\n## Como executar a aplica‡ao:\n`python app.py <nome>`" 
+"\n## Como clonar o reposit¢rio:\n`git clone https://github.com/Alexandra426/git-exercises.git`" 
+"\n## Como instalar dependˆncias:\n`pip install -r requirements.txt`" 
+"\n## Como correr a aplica‡ao:\n`python app.py <nome>`" 
